@@ -1,0 +1,21 @@
+{
+  "name": "frida-process",
+  "version": "1.0.0",
+  "authors": [
+    "Frida Developers"
+  ],
+  "description": "Node.js compatible “process” module for Frida",
+  "keywords": [
+    "frida"
+  ],
+  "homepage": "http://www.frida.re",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/frida/frida-process.git"
+  },
+  "bugs": {
+    "url": "http://github.com/frida/frida-process/issues"
+  }
+}
