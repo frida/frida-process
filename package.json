@@ -10,6 +10,18 @@
   ],
   "homepage": "http://www.frida.re",
   "main": "index.js",
+  "browserify": {
+    "transform": [
+      [
+        "babelify",
+        {
+          "presets": [
+            "es2015"
+          ]
+        }
+      ]
+    ]
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
