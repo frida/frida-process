@@ -11,7 +11,7 @@
   "homepage": "http://www.frida.re",
   "main": "index.js",
   "files": [
-    "index.js"
+    "/index.js"
   ],
   "browserify": {
     "transform": [
