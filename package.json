@@ -8,7 +8,7 @@
   "keywords": [
     "frida"
   ],
-  "homepage": "http://www.frida.re",
+  "homepage": "https://www.frida.re",
   "main": "index.js",
   "files": [
     "/index.js"
@@ -16,9 +16,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/frida/frida-process.git"
+    "url": "https://github.com/frida/frida-process.git"
   },
   "bugs": {
-    "url": "http://github.com/frida/frida-process/issues"
+    "url": "https://github.com/frida/frida-process/issues"
   }
 }
